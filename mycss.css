@@ -1,0 +1,25 @@
+<style>
+        div {
+            text-align:center;
+            color: brown;
+            border: 1px solid orange;
+            padding: 30px;
+            background-color: navajowhite;
+            margin: 0px;
+            font-family: arial;
+        }
+        .div2 {
+            text-align:left;
+            color: brown;
+            border: white;
+            padding: 10px 0px 10px 0px;
+            background-color:white;
+            }
+        p {
+            font-size: 20px;
+        }
+
+        .p2 {
+            font-size: 20px;
+        }
+    </style>
